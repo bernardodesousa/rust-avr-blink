@@ -10,8 +10,8 @@ Designed for the ATmega328p on the Arduino Pro Mini and compatible boards.
 
 ## Prerequisites
 
-* A recent version of the nightly Rust compiler. Anything including or greater than `rustc 1.63.0-nightly (fee3a459d 2022-06-05)` can be used.
-* A recent version of Cargo. At least 1.52.0 or greater.
+* A recent version of the nightly Rust compiler.
+* A recent version of Cargo.
 * The rust-src rustup component - `$ rustup component add rust-src`
 * AVR-GCC on the system for linking
 * AVR-Libc on the system for support libraries
